@@ -1,0 +1,32 @@
+*{
+	margin: 0px;
+}
+
+
+#grey{
+	background-color: rgba(0,0,0,0.7);
+}
+
+#white{
+	color: rgba(200,200,200,0.9);
+}
+#white p{
+	color: rgba(200,200,200,0.9);
+}
+
+.section{
+	padding: 0px !important;
+}
+
+.noradius{
+	border-radius: 0px;
+}
+
+.padded{
+	padding: 5em;
+}
+
+#foot{
+
+	margin-top: 15em;
+}
